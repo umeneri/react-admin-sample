@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "no-dropping-the-ra": true,
+    "prh": {
+      "rulePaths" :["./prh.yaml"]
+    }
+  }
+}
